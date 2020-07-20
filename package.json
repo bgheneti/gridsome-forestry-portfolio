@@ -5,6 +5,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
+    "pre-deploy": "npm install -g gh-pages",
     "deploy": "gh-pages -b master -d dist -r ssh://git@github.com/bgheneti/bgheneti.github.io"
   },
   "dependencies": {

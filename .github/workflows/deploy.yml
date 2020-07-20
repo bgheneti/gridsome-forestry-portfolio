@@ -19,5 +19,8 @@ jobs:
       - name: Build Gridsome site
         run: npm run build
       
+      - name: pre-deploy
+        run: npm run pre-deploy
+
       - name: deploy
         run: npm run deploy
