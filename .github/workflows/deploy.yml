@@ -15,6 +15,11 @@ jobs:
 
       - name: Installing packages
         run: npm install
+      
+      - name: Setup Git
+        run: |
+         git config --global user.email "banti@gheneti.com"
+         git config --global user.name "Banti Gheneti"
 
       - name: Build Gridsome site
         run: npm run build
