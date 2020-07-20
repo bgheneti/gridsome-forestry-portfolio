@@ -24,7 +24,10 @@ jobs:
       - name: Build Gridsome site
         run: npm run build
       
-      - name: deploy
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run deploy
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_BRANCH: master
+          BRANCH: gh-pages
+          FOLDER: dist
