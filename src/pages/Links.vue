@@ -2,7 +2,7 @@
   <Layout>
 
     <g-link 
-      :to="item.node.path"
+      :to="item.node.url"
       v-for="item in $page.posts.edges" 
       :key="item.node.id"
       class="journal-post"
@@ -17,12 +17,13 @@
 </template>
 
 <page-query>
-query Journal {
-	posts: allJournalPost {
+query Links {
+	posts: allLinkPost {
     edges {
       node {
         id
         path
+        url
         title
         excerpt
       }
