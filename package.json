@@ -5,7 +5,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "deploy": "gh-pages -b master -d dist -r https://github.com/bgheneti/bgheneti.github.io.git"
+    "deploy": "gh-pages -b master -d dist -r https://{GH_TOKEN}@github.com/bgheneti/bgheneti.github.io.git"
   },
   "dependencies": {
     "@gridsome/remark-prismjs": "0.3.0",
