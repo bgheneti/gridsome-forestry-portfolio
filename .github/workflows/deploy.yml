@@ -1,0 +1,23 @@
+name: Build & Deploy
+
+on:
+  push:	
+    branches:	
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Installing packages
+        run: npm install -g
+
+      - name: Build Gridsome site
+        run: npm run build
+      
+      - name: deploy
+        run: npm run deploy
