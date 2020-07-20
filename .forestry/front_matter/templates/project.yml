@@ -35,8 +35,3 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-pages:
-- projects/3d-graff.md
-- projects/chelsea-landmark.md
-- projects/ios-concept.md
-- projects/sunk.md

@@ -18,5 +18,3 @@ fields:
   description: Short snippet that will show outside of the actual post
   config:
     required: true
-pages:
-- link/macos-development-environment.md
