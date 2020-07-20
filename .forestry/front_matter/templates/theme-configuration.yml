@@ -22,6 +22,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: text
+  name: hero_img
+  label: Hero image
 - name: footer
   label: Footer text
   type: text
