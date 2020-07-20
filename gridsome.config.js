@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
+  siteName: "Banti Gheneti",
   siteUrl: 'https://bgheneti.github.io',
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Porfolio",
+  siteDescription: "Robotics, Social Entrepreneurship, Civic Tech, CS",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
