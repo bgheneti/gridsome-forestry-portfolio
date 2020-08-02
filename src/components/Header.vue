@@ -1,14 +1,15 @@
 <template>
-    <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
+    <header class="header" :class="[{sticky: $route.path === '/' || $route.path.includes('/projects/')}, {scrolled: scrolled && $route.path === '/'}]">
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
-                    <h3>Banti Gheneti 🍵</h3>
-                    <!--<img 
-                        src="../../static/logo.svg"
+                    <h3>Banti Gheneti</h3>
+                    <img 
+                        v-bind:src="logo"
                         :alt="settings.site_name" 
                         class="logo"
-                    />-->
+                        :class="[{'scrolled-logo': scrolled && $route.path === '/'}]"
+                    />
                 </g-link>
             </div>
             <nav class="nav right">
@@ -26,10 +27,24 @@
 export default {
   data() {
     return {
-        logo: require("../../static/logo.svg"),
+        scrolled: false,
+        logo: require("../../static/tea_pixiedust.gif"),
         settings: require("../../data/theme.json")
     }
+  },
+
+  methods: {
+    handleScroll () {
+      this.scrolled = window.scrollY > 0;
+    }
+  },
+  beforeMount () {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  beforeDestroy () {
+    window.removeEventListener('scroll', this.handleScroll);
   }
+
 }
 </script>
 
@@ -38,7 +53,13 @@ export default {
     position: relative;
     height: 6rem;
     z-index: 10;
+    background-color: hsla(100, 100%, 100%, 0.9);
+    transition: height 0.5s ease;
 }
+.header.scrolled {
+    height: 3rem;
+}
+
 .header.sticky {
     position: fixed;
     top: 0;
@@ -54,8 +75,17 @@ export default {
 .home-link {
     text-decoration: none;
 }
+h3 {
+    display: inline;
+}
 .logo {
+    vertical-align: sub;
+    margin-left: 0.5rem;
     height: 1.5rem;
+    transition: opacity 0.5s;
+}
+.scrolled-logo{
+    opacity: 0;
 }
 .site-name {
     font-size: 0.9rem;
