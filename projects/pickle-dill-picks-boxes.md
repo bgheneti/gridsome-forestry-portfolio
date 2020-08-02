@@ -10,4 +10,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-<iframe height="360"vwidth="640" src="https://www.youtube.com/embed/Xm-rHTdIoLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="360" width="640" src="https://www.youtube.com/embed/Xm-rHTdIoLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
