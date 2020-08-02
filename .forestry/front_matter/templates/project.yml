@@ -20,8 +20,8 @@ fields:
     time_format: ''
     export_format: YYYY-MM-DD
     display_utc: true
-  default: now
-  hidden: true
+  default: ''
+  hidden: false
 - type: tag_list
   name: categories
   label: Categories
