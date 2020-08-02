@@ -1,5 +1,5 @@
 ---
-date: 2020-08-02
+date: 2020-06-02
 thumbnail: "/uploads/home-trees.jpg"
 title: Spring from my bedroom
 categories:
