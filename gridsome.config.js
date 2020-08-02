@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: 'https://bgheneti.github.io',
   host: "0.0.0.0",
   titleTemplate: "%s - Porfolio",
-  siteDescription: "Robotics, Social Entrepreneurship, Civic Tech, CS",
+  siteDescription: "dutch-oromo vegan techie who does robotics, civic tech, music, etc",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
