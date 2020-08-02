@@ -13,4 +13,4 @@ project_fg_color: ''
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/87-u1DebjBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### timelapse I made of the East Campus REX projects with LED lights at the end
+#### timelapse I made of the East Campus REX projects with LED lights at the end
