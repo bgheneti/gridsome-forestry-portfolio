@@ -1,7 +1,7 @@
 ---
 date: 2020-08-02
 thumbnail: "/uploads/home-trees.jpg"
-title: spring from my bedroom
+title: Spring from my Bedroom
 categories:
 - tree
 - home
