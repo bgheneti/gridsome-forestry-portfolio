@@ -10,3 +10,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/home-trees.jpg)
