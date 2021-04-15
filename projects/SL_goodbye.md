@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/SL_goodbye.jpg"
-title: Saying goodbye to DSTI in Sierra Leone
+title: Bye DSTI (Directorate of Science, Technology and innovation)
 date: 2019-01-04
 categories:
 - Salone
