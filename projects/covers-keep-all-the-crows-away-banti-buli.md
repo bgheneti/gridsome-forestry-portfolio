@@ -21,7 +21,7 @@ During the pandemic, I produced a couple covers under the moniker Banti Buli.
 
 These songs have lingered in and around my mind and room the past year or so. The originals are by artists whose music I really admire (Sparklehorse, Thao & The Get Down Stay Down, and Adrienne Lenker & Buck Meek).
 
-The covers took many different shapes and I had different purposes arranging them (birthday, instrument free, sing low, tremolo, fortitude, fingerpicking). I hope they fit you well and offer you some form of protection if that is what you are looking for.
+The covers took many different shapes and I had different purposes arranging them (birthday, instrument free, sing low, tremolo, fortitude, fingerpicking). I hope they fit you well and, with any luck, assist you in keeping your crows away.
 
 ### credits
 
