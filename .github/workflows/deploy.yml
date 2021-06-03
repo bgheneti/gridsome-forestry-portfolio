@@ -29,5 +29,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BASE_BRANCH: template
-          BRANCH: master
-          FOLDER: dist
+        with:
+          branch: gh-pages
+          folder: dist
