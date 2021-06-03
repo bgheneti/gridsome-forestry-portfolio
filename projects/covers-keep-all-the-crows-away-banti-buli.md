@@ -7,7 +7,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-<img src="uploads/album-cover-website.jpg" alt="drawing" width="200"/>
+![album cover](/uploads/album-cover-website.jpg)
 
 During the pandemic, I produced a couple covers under the moniker Banti Buli.
 
