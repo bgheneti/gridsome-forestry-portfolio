@@ -9,7 +9,7 @@ project_fg_color: ''
 ---
 ![](/uploads/album-cover-website.jpg)
 
-#### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq)
+#### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq) 
 
 During the pandemic, I produced a couple covers under the moniker Banti Buli.
 
