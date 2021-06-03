@@ -27,7 +27,7 @@ I produced a couple covers covers under the moniker Banti Buli during the pandem
 credits  
   
 instrumentals, vocals, arrangement - me  
- lyrics, music - Mark Linkous (Gold Day), Thao Nguyen (Pure Cinema), Adrienne Lenker (Kerina)   
+ lyrics, music - Mark Linkous (Gold Day), Thao Nguyen and Adam Thompson (Pure Cinema), Adrianne Lenker (Kerina)  
    
  Thanks Chloe ([cjredmouth.bandcamp.com](https://cjredmouth.bandcamp.com)) for listening and sharing ideas that mended and improved it all.   
    
