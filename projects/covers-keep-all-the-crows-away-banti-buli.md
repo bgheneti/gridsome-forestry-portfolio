@@ -9,7 +9,7 @@ project_fg_color: ''
 ---
 ![](/uploads/album-cover-final-exp-5.png)
 
-I produced a couple covers covers under the moniker Banti Buli during the pandemic.
+During the pandemic, I produced a couple covers under the moniker Banti Buli.
 
 [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq)
 
@@ -24,8 +24,8 @@ I produced a couple covers covers under the moniker Banti Buli during the pandem
    
  The covers took many different shapes and I had different purposes arranging them (birthday, instrument free, sing low, tremolo, fortitude, fingerpicking). I hope they fit you well and offer you some form of protection if that is what you are looking for.
 
-credits  
-  
+### credits
+
 instrumentals, vocals, arrangement - me  
  lyrics, music - Mark Linkous (Gold Day), Thao Nguyen and Adam Thompson (Pure Cinema), Adrianne Lenker (Kerina)  
    
