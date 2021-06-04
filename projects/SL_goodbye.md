@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/SL_view.jpg"
-title: Spent five months working with DSTI in Freetown, Sierra Leone
+title: five months working with DSTI in Sierra Leone
 date: 2019-01-04
 categories:
 - Salone
