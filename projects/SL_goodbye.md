@@ -8,7 +8,7 @@ categories:
 - GIS
 - DSTI
 project_bg_color: ''
-project_fg_color: "#FDC70D"
+project_fg_color: "#000000"
 
 ---
 ![view of Aberdeen and Wilberforce in Freetown](/uploads/SL_view.jpg "view of Aberdeen and Wilberforce in Freetown")
