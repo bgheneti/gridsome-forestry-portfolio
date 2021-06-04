@@ -2,7 +2,8 @@
 thumbnail: "/uploads/album-cover-website-front.jpg"
 title: Covers ~ keep all the crows away / Banti Buli
 date: 2021-06-04
-categories: []
+categories:
+- music
 project_bg_color: "#FFFFFF"
 project_fg_color: "#000000"
 
