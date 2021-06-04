@@ -25,7 +25,7 @@ _I learned a bunch as a musician and engineer and felt engaged in a mostly, but 
 
 These covers have lingered in and around my mind and room for the past year or so. The originals are by artists whose music I really admire (Sparklehorse, Thao & The Get Down Stay Down, and Adrianne Lenker & Buck Meek).
 
-These covers served me well. They took many different shapes as different purposes came up (birthdays, music with guitar, music without guitar, singing low, tremolo, fortitude, fingerpicking), but all in all they kept me immersed in a engaging space during the covid-19 pandemic. I hope they fit you well and, with any luck, assist you in keeping your crows away.
+These covers served me well. They took many different shapes as different purposes came up (birthdays, music with guitar, music without guitar, singing low, tremolo, fortitude, fingerpicking), but all in all they kept me immersed in an engaging space during the covid-19 pandemic. I hope they fit you well and, with any luck, assist you in keeping your crows away.
 
 ### who made these covers?
 
