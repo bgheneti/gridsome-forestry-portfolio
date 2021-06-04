@@ -11,23 +11,25 @@ project_fg_color: ''
 
 #### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq)
 
-During the pandemic, I produced a couple covers under the moniker Banti Buli.
+_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy covers more than originals_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now I don't write my own songs but do enjoy playing and editing music so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._ 
 
-1. **Gold Day**
-2. **Pure Cinema**
-3. **Kerina**
+_I learned a bunch as a musician and engineer and felt engaged and busy in a mostly healthy way. Things don't always turn out as one envisions but I'm pretty proud of how things did turn out. Maybe there will be more covers in the future. Anyways, here are some covers to keep all your crows away:_
 
-### cover
+1. Gold Day
+2. Pure Cinema
+3. Kerina
+
+### **what is a** cover?
 
 1\.) _an object that that surrounds, lies on top of or otherwise shelters something to offer protection_  
 2\.) _could include protection from elements, forces, eyes or any other things beyond the cover_  
 3\.) _one function of these recordings_
 
-These songs have lingered in and around my mind and room the past year or so. The originals are by artists whose music I really admire (Sparklehorse, Thao & The Get Down Stay Down, and Adrianne Lenker & Buck Meek).
+These covers have lingered in and around my mind and room for the past year or so. The originals are by artists whose music I really admire (Sparklehorse, Thao & The Get Down Stay Down, and Adrianne Lenker & Buck Meek).
 
-The covers took many different shapes and I had different purposes arranging them (birthday, instrument free, sing low, tremolo, fortitude, fingerpicking). I hope they fit you well and, with any luck, assist you in keeping your crows away.
+These covers served me well. They took many different shapes as different purposes came up (birthdays, music with guitar, music without guitar, singing low, tremolo, fortitude, fingerpicking), but all in all they kept me immersed in a engaging space during the covid-19 pandemic. I hope they fit you well and, with any luck, assist you in keeping your crows away.
 
-### credits
+### who made these covers?
 
 most instrumentals, vocals, arrangement - Banti  
 lyrics, music - Mark Linkous (Gold Day), Thao Nguyen and Adam Thompson (Pure Cinema), Adrianne Lenker (Kerina)
