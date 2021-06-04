@@ -17,6 +17,8 @@ _I learned a bunch as a musician and engineer and felt engaged in a mostly, but 
 
 <iframe style="border: 0; width: 700px; height: 241px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/")" seamless><a href="[https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away](https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away "https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away")">Covers \~ keep all your crows away by Banti Buli</a></iframe>
 
+ 
+
 ### **what is a** cover?
 
 1\.) _an object that that surrounds, lies on top of or otherwise shelters something to offer protection_  
