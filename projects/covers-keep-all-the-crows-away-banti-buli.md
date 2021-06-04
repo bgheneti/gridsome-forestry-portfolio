@@ -11,13 +11,11 @@ project_fg_color: ''
 
 #### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq)
 
-_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy covers more than originals_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now I don't write my own songs but do enjoy playing and editing music so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._ 
+_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing and editing music, so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._ 
 
-_I learned a bunch as a musician and engineer and felt engaged and busy in a mostly healthy way. Things don't always turn out as one envisions but I'm pretty proud of how things did turn out. Maybe there will be more covers in the future. Anyways, here are some covers to keep all your crows away:_
+_I learned a bunch as a musician and engineer and felt engaged in a mostly, but not always, healthy way. Things don't always turn out as one envisions, but I'm pretty proud of how things did turn out. Maybe there will be more covers in the future. Anyways, here are some covers to keep all your crows away._
 
-1. Gold Day
-2. Pure Cinema
-3. Kerina
+<iframe style="border: 0; width: 100%; height: 241px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/")" seamless><a href="[https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away](https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away "https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away")">Covers \~ keep all your crows away by Banti Buli</a></iframe>
 
 ### **what is a** cover?
 
