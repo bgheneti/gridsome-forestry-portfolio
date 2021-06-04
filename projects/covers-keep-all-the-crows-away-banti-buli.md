@@ -11,7 +11,7 @@ project_fg_color: ''
 
 #### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/)
 
-_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing and editing music, so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._ 
+_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing and editing music, so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._
 
 _I learned a bunch as a musician and engineer and felt engaged in a mostly, but not always, healthy way. Things don't always turn out as one envisions, but I'm pretty proud of how things did turn out. Maybe there will be more covers in the future. Anyways, here are some covers to keep all your crows away._
 
@@ -27,7 +27,7 @@ These covers have lingered in and around my mind and room for the past year or s
 
 These covers served me well. They took many different shapes as different purposes came up (birthdays, music with guitar, music without guitar, singing low, tremolo, fortitude, fingerpicking), but all in all they kept me immersed in an engaging space during the covid-19 pandemic. I hope they fit you well and, with any luck, assist you in keeping your crows away.
 
-### who made these covers?
+### what goes into a cover?
 
 most instrumentals, vocals, arrangement - Banti  
 lyrics, music - Mark Linkous (Gold Day), Thao Nguyen and Adam Thompson (Pure Cinema), Adrianne Lenker (Kerina)
