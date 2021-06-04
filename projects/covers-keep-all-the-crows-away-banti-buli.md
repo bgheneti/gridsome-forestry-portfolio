@@ -32,6 +32,6 @@ The covers took many different shapes and I had different purposes arranging the
 most instrumentals, vocals, arrangement - me  
 lyrics, music - Mark Linkous (Gold Day), Thao Nguyen and Adam Thompson (Pure Cinema), Adrianne Lenker (Kerina)
 
-Thanks Chloe ([cjredmouth.bandcamp.com](https://cjredmouth.bandcamp.com)) for listening and sharing many ideas that mended and improved it all. Also thanks for contributing some tapping to Pure Cinema.
+Thanks Chloe ([cjredmouth.bandcamp.com](https://cjredmouth.bandcamp.com)) for listening and sharing many ideas that mended and improved it all. Also thanks for contributing some tapping noises to Pure Cinema.
 
 Thanks Miske for lending me a trumpet for relearning and recording.
