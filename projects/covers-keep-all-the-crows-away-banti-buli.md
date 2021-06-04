@@ -3,19 +3,21 @@ thumbnail: "/uploads/album-cover-website-front.jpg"
 title: Covers ~ keep all the crows away / Banti Buli
 date: 2021-06-04
 categories: []
-project_bg_color: ''
-project_fg_color: ''
+project_bg_color: "#FFFFFF"
+project_fg_color: "#FFFFFF"
 
 ---
 ![](/uploads/album-cover-website.jpg)
 
 #### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/)
 
-_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing, arranging and editing music, so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._
+<iframe style="border: 0; width: 100%; height: 241px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/")" seamless><a href="[https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away](https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away "https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away")">Covers \~ keep all your crows away by Banti Buli</a></iframe>
 
-_I learned a bunch as a musician and engineer and felt engaged in a mostly, but not always, healthy way. Things don't always turn out as one envisions, but I'm pretty proud of how things did turn out. Maybe there will be more covers in the future. Anyways, here are some covers to keep all your crows away._
+### Banti Buli
 
-<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away">Covers \~ keep all your crows away by Banti Buli</a></iframe>
+_One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing, arranging and editing music, so I produced a couple covers under the moniker Banti Buli. It is pretty easy for me to try and brush aside a routine bedtime and, under the cover of night, chase one side project or other. In Afaan Oromoo, Banti Buli means "Banti, go to sleep" or "sleep on the peak," depending on how you look at it._
+
+_I learned a bunch as a musician and engineer and felt overwhelmingly engaged in a mostly, but not always, healthy way. It is possible there will be more covers in the future. For now, here are some covers to keep all your crows away._
 
 ### what is a cover?
 
