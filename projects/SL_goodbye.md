@@ -1,6 +1,7 @@
 ---
 thumbnail: "/uploads/SL_view.jpg"
-title: five months working with DSTI in Sierra Leone
+title: five months working with DSTI (Directorate of Science, Technology and Innovation)
+  in Sierra Leone
 date: 2019-01-04
 categories:
 - Salone
