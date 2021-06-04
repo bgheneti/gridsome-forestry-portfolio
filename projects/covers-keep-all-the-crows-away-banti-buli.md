@@ -9,7 +9,7 @@ project_fg_color: ''
 ---
 ![](/uploads/album-cover-website.jpg)
 
-#### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/) // [youtube](https://youtube.com/playlist?list=PLCLdaJ-xRai1OQu8OtmUIcO9L7oEZRAWq)
+#### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/)
 
 _One of my favorite musical experiences is listening to artists I enjoy_ [_covering_](https://weaves.bandcamp.com/track/drag-me-down-one-direction-cover) _or_ [_being covered_](https://www.youtube.com/watch?v=dtBK5oVUKTw) _by other artists. ~~Sometimes~~ Pretty often,_ [_I even enjoy a cover more than the original_](https://sldgmusc.bandcamp.com/track/pink-navel-graceland-paul-simon-coverr)_. As of now, I don't write my own songs, but I do enjoy playing and editing music, so I produced a couple covers under the moniker Banti Buli. Banti Buli is Afaan Oromoo for "Banti, go to sleep" or "sleep on the peak" (most likely interpretation, but grammatically incorrect) depending on how you look at it._ 
 
