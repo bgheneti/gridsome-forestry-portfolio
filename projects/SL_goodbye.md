@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/SL_goodbye.jpg"
-title: Bye DSTI (Directorate of Science, Technology and innovation)
+thumbnail: "/uploads/SL_view.jpg"
+title: Spent five months working with DSTI in Freetown, Sierra Leone
 date: 2019-01-04
 categories:
 - Salone
@@ -10,4 +10,4 @@ project_bg_color: ''
 project_fg_color: "#FDC70D"
 
 ---
-![](/uploads/SL_goodbye.jpg)
+![](/uploads/SL_view.jpg)
