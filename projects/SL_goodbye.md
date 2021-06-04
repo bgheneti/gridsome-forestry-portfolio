@@ -17,4 +17,4 @@ I spent a half year in Freetown, Sierra Leone interning with the [Directorate of
 
 ![GIS Team](/uploads/img-20190709-wa0012.jpg "GIS Team")
 
-I'm really excited to continue watching the work DSTI and the people in it do in supporting GoSL and nurturing a tech ecosystem in Sierra Leone, and look forward to however our paths may cross going forward.
+I'm really excited to continue watching the work DSTI and the people in it do in supporting GoSL and nurturing the tech ecosystem in Sierra Leone, and look forward to however our paths may cross going forward.
