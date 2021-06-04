@@ -11,7 +11,7 @@ project_fg_color: "#000000"
 
 #### [soundcloud](https://soundcloud.com/bgheneti) // [bandcamp](https://bantibuli.bandcamp.com/)
 
-<iframe style="border: 0; width: 100%; height: 241px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/")" seamless><a href="[https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away](https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away "https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away")">Covers \~ keep all your crows away by Banti Buli</a></iframe>
+<iframe style="border: 0; width: 700px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away">Covers ~ keep all your crows away by Banti Buli</a></iframe>
 
 ### Banti Buli
 
