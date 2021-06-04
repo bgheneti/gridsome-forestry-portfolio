@@ -1,5 +1,5 @@
 <template>
-    <header class="header" :class="[{sticky: $route.path === '/' || $route.path.includes('/projects/')}, {scrolled: scrolled && $route.path === '/'}]">
+    <header class="header" :class="[{sticky: $route.path === '/' }, {scrolled: scrolled && $route.path === '/'}]">
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
@@ -13,7 +13,7 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/">Bio</g-link>
+                <g-link class="nav__link" to="/index.html">Bio</g-link>
                 <!--<g-link class="nav__link" to="/journal">Journal</g-link>-->
                 <g-link class="nav__link" to="/links">Links</g-link>
                 <g-link class="nav__link" to="https://github.com/bgheneti">Github</g-link>
