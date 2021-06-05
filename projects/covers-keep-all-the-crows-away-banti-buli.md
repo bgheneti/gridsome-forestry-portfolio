@@ -18,7 +18,7 @@ _I learned a bunch as a musician and engineer and felt overwhelmingly engaged in
 
 ~
 
-<iframe style="border: 0; width: 700px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away">Covers ~ keep all your crows away by Banti Buli</a></iframe>
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3803568248/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bantibuli.bandcamp.com/album/covers-keep-all-your-crows-away">Covers ~ keep all your crows away by Banti Buli</a></iframe>
 
 ### what is a cover?
 

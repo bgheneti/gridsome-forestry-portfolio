@@ -37,11 +37,6 @@ export default {
     padding-bottom: 2em;
 }
 
-.hero-content h2 {
-    font-size: 2.3em;
-    margin: 0 0.5em 0.5em 0;
-}
-
 @media only screen and (max-width: 600px) {
     .hero-txt {
         width: 100%;
@@ -49,8 +44,9 @@ export default {
 }
 
 .hero-title {
-    font-size: 2rem;
-    font-weight: 700;
+    font-size: 3em;
+    font-weight: 400;
+    margin: 0 0.5em 0 0;
 }
 .hero-title-wrapper {
     margin: 0px;
