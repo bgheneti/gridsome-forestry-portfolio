@@ -5,7 +5,7 @@ module.exports = {
   siteName: "Banti Gheneti",
   siteUrl: 'https://bgheneti.github.io',
   host: "0.0.0.0",
-  titleTemplate: "%s - Porfolio",
+  titleTemplate: "%s - personal website",
   siteDescription: "dutch-oromo vegan techie who does robotics, civic tech, music, etc",
   plugins: [
     {

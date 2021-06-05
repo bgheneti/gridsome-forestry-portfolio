@@ -73,6 +73,17 @@ a {
   color: inherit;
 }
 
+.content p {
+  line-height: 1.5;
+  color: #41485a;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.content a {
+  color: #FF81D8;
+}
+
 img {
   max-width: 100%;
 }

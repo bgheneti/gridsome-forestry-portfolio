@@ -2,14 +2,13 @@
     <div class="hero">
         <div style='width:100%'>
         <div class='hero-txt'>
-            <h2 class="hero-title" v-html="settings.hero_title" />
-            <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
+        <img class='hero-img' :src="image"/>
+            <div class="hero-content" v-for="item in settings.hero_content" :key="item.title">
+                <div class="hero-title-wrapper"><h2 class="hero-title" v-html="item.title" /></div>
+                <p class="hero-subtitle" v-html="item.text" />
+            </div>
         </div>
-        <div class='hero-img'>
-            <img :src="image"/>
         </div>
-        </div>
-         <span style='clear:left; display: block'></span>
     </div>
 </template>
 
@@ -31,24 +30,19 @@ export default {
     width: 800px;
     max-width: 100%;
     margin: 0 auto;
-    padding: 4rem 0 8rem 0;
+    padding: 4rem 0 4rem 0;
 }
 
-.hero-img {
-    width:40%;
-    float: left;
+.hero-content {
+    padding-bottom: 2em;
 }
 
-.hero-txt {
-    width:60%;
-    float: left; 
-    padding-right:2em;
+.hero-content h2 {
+    font-size: 2.3em;
+    margin: 0 0.5em 0.5em 0;
 }
 
 @media only screen and (max-width: 600px) {
-    .hero-img {
-        width: 80%;
-            }
     .hero-txt {
         width: 100%;
             }
@@ -57,8 +51,10 @@ export default {
 .hero-title {
     font-size: 2rem;
     font-weight: 700;
-    padding: 0;
-    margin: 0 0 2rem 0;
+}
+.hero-title-wrapper {
+    margin: 0px;
+    float: left;
 }
 .hero-title p,
 .hero-subtitle p {
@@ -71,11 +67,21 @@ export default {
     line-height: 1.68;
     padding: 0;
     margin: 0;
-    color: #2B3856;
-    opacity: 0.8;
+    color: #555f77;
+    text-align: justify;
+}
+
+.hero-img {
+    width: 40%;
+    float: right;
+    margin-left: 20px;
 }
 
 .hero-subtitle a {
     color: #FF81D8;
+}
+.hero-title-wrapper {
+    display: inline-block;
+    margin: 0;
 }
 </style>

@@ -1,22 +1,23 @@
 <template>
-    <header class="header" :class="[{sticky: $route.path === '/' }, {scrolled: scrolled && $route.path === '/'}]">
+    <header class="header" :class="[{sticky: stickyPage}, {scrolled: scrolled && stickyPage}]">
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <h3>Banti Gheneti</h3>
                     <img 
                         v-bind:src="logo"
-                        :alt="settings.site_name" 
                         class="logo"
-                        :class="[{'scrolled-logo': scrolled && $route.path === '/'}]"
+                        :class="[{'scrolled-logo': scrolled && stickyPage}]"
                     />
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/index.html">Bio</g-link>
-                <!--<g-link class="nav__link" to="/journal">Journal</g-link>-->
-                <g-link class="nav__link" to="/links">Links</g-link>
-                <g-link class="nav__link" to="https://github.com/bgheneti">Github</g-link>
+                <g-link class="nav__link" to="/">Story</g-link>
+                <!--<g-link class="nav__link section" to="/journal">Journal</g-link>--> 
+                <g-link class="nav__link section" to="/projects">Timeline</g-link> 
+                <g-link class="nav__link" to="/links">Links</g-link> 
+                <g-link class="nav__link" to="https://github.com/bgheneti">Github</g-link> 
+                <g-link class="nav__link" to="https://www.linkedin.com/in/bgheneti/">Linkedin</g-link>
                 <!--<g-link class="nav__link" to="/contact">Say Hi!</g-link>-->
             </nav>
         </div>
@@ -32,6 +33,11 @@ export default {
         settings: require("../../data/theme.json")
     }
   },
+  computed: {
+    stickyPage: function () {
+        return ['/', '/projects'].includes(this.$route.path)
+    }
+  }, 
 
   methods: {
     handleScroll () {
@@ -111,7 +117,11 @@ h3 {
 .nav > *:hover {
     border-color: inherit;
 }
-.nav > .active {
+
+.nav > .section.active {
+    border-color: inherit;
+}
+.nav > .active--exact {
     border-color: inherit;
 }
 </style>
