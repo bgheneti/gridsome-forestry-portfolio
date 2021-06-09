@@ -70,7 +70,7 @@ export default {
 .hero-img {
     width: 40%;
     float: right;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 .hero-subtitle a {
