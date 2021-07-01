@@ -8,20 +8,6 @@ fields:
 - type: textarea
   name: site_description
   label: Site description
-- type: textarea
-  name: hero_title
-  label: Hero title
-  config:
-    wysiwyg: true
-    schema:
-      format: html
-- type: textarea
-  name: hero_subtitle
-  label: Hero subtitle
-  config:
-    wysiwyg: true
-    schema:
-      format: html
 - type: text
   name: hero_img
   label: Hero image
@@ -33,5 +19,27 @@ fields:
 - type: boolean
   name: dark_mode
   label: Dark mode
+- name: hero_content
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: hero content
 pages:
 - data/theme.json
