@@ -68,7 +68,7 @@ export default {
 }
 
 .hero-img {
-    width: 40%;
+    width: 45%;
     float: right;
     margin-left: 30px;
 }
