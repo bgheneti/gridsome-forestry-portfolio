@@ -17,7 +17,6 @@
                 <g-link class="nav__link section" to="/projects">Timeline</g-link> 
                 <g-link class="nav__link" to="/links">Links</g-link> 
                 <g-link class="nav__link external" to="https://github.com/bgheneti">Github</g-link> 
-                <g-link class="nav__link external" to="https://www.linkedin.com/in/bgheneti/">Linkedin</g-link>
                 <!--<g-link class="nav__link" to="/contact">Say Hi!</g-link>-->
             </nav>
         </div>
